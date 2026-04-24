@@ -1,0 +1,5 @@
+# install all of these by running: pip install -r requirements.txt
+
+selenium==4.18.1          # controls the Chrome browser
+pytest==8.1.1             # finds and runs all test functions
+webdriver-manager==4.0.1  # auto downloads the right chromedriver so I don't have to
